@@ -1,6 +1,7 @@
 # handwrittenCharacterRecognition-
+![handwritting](https://github.com/Omaymaazeroual/handwrittenCharacterRecognition-/assets/93050621/2d5a16b9-32b2-4e41-aad8-072c4738721b)
 
-![Handwritten Character Recognition](handwritting)
+![Handwritten Character Recognition] 
 
 A project focusing on handwritten character recognition, utilizing Python and employing Convolutional Neural Network (CNN) algorithms along with OpenCV for the analysis and identification of handwritten characters.
 
