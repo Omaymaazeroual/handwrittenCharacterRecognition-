@@ -1,6 +1,6 @@
 # handwrittenCharacterRecognition-
 
-![Handwritten Character Recognition](handwriting.jpg)
+![Handwritten Character Recognition](handwritting)
 
 A project focusing on handwritten character recognition, utilizing Python and employing Convolutional Neural Network (CNN) algorithms along with OpenCV for the analysis and identification of handwritten characters.
 
